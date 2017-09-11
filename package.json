@@ -1,6 +1,6 @@
 {
 	"name": "ctrlc-exit",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Exit the process when `Ctrl`+`C` is pressed",
 	"license": "MIT",
 	"repository": "vadimdemedes/ctrlc-exit",
