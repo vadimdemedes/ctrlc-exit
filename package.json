@@ -1,0 +1,27 @@
+{
+	"name": "ctrlc-exit",
+	"version": "0.0.0",
+	"description": "Exit the process when `Ctrl`+`C` is pressed",
+	"license": "MIT",
+	"repository": "vadimdemedes/ctrlc-exit",
+	"author": {
+		"name": "Vadim Demedes",
+		"email": "vdemedes@gmail.com",
+		"url": "github.com/vadimdemedes"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && node test && node test-done"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli"
+	],
+	"devDependencies": {
+		"xo": "^0.18.2"
+	}
+}
